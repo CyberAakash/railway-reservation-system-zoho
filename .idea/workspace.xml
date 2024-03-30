@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68fb81f6-7300-4aee-b5f5-bcced0be1c18" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/chatGPT/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/chatGPT/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/chatGPT/TicketHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/git1/Berth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/git1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/git1/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/git1/Train.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/git2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/git2/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/git2/TicketBooker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/v1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/v1/person/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/v1/person/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/v1/railway/Railway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/v1/railway/TicketHandler.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2eP3tzEVZuaiDiS3Fftj9WvXXoO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/aakashvnthgmail.com/Documents/CyberAakash/console-based-app-java/RailwayReservationSystem/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="OPA_TEST_RUN_CONFIGURATION" factoryName="Opa configuration factory">
+      <option name="additionalargs" value="" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68fb81f6-7300-4aee-b5f5-bcced0be1c18" name="Changes" comment="" />
+      <created>1711792605208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711792605208</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
